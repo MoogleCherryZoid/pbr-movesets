@@ -34,6 +34,6 @@ biddable: True
 rarity: 0.6
 ball: [great]
 nature: Naive
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 0, atk: 208, def: 0, spA: 76, spD: 0, spe: 224}
 level: 50
