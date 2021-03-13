@@ -53,6 +53,6 @@ biddable: True
 rarity: 0.1
 ball: [Poke]
 nature: Modest
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
 evs: {hp: 40, atk: 0, def: 120, spA: 80, spD: 80, spe: 160}
 level: 5
