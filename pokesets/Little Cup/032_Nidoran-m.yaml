@@ -14,8 +14,8 @@ biddable: True
 rarity: 0.6
 ball: [Poke]
 nature: Rash
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 80, def: 0, spA: 220, spD: 40, spe: 220}
+ivs: {hp: 2, atk: 31, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 0, atk: 64, def: 0, spA: 200, spD: 36, spe: 200}
 level: 5
 ---
 species: Nidoran♂
