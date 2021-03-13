@@ -40,7 +40,7 @@ biddable: True
 rarity: 0.3
 ball: [Poke]
 nature: Lonely
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 18, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 0, atk: 180, def: 92, spA: 40, spD: 36, spe: 156}
 level: 5
 ---
