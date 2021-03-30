@@ -183,3 +183,20 @@ biddable: True
 hidden: False
 rarity: 0
 gender: [m]
+---
+species: Charizard
+displayname: "Charizard-K"
+setname: KAPOW
+ability: [Scrappy]
+item: [Choice Band]
+moves:
+    - [Selfdestruct]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 20}
+nature: Brave
+happiness: 255
+ball: [Cherish]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
